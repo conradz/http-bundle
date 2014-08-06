@@ -1,7 +1,7 @@
 # http-bundle
 
 [![Build Status](http://img.shields.io/travis/conradz/http-bundle.svg)](https://travis-ci.org/conradz/http-bundle)
-[![NPM](http://img.shields.io/npm/v/http-bundle.svg)](https://npmjs.org/packages/http-bundle)
+[![NPM](http://img.shields.io/npm/v/http-bundle.svg)](https://npmjs.org/package/http-bundle)
 
 Generic node.js HTTP handler for generated bundles
 
