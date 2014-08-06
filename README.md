@@ -1,5 +1,8 @@
 # http-bundle
 
+[![Build Status](http://img.shields.io/travis/conradz/http-bundle.svg)](https://travis-ci.org/conradz/http-bundle)
+[![NPM](http://img.shields.io/npm/v/http-bundle.svg)](https://npmjs.org/packages/http-bundle)
+
 Generic node.js HTTP handler for generated bundles
 
 This is great for serving browserify bundles, generated css, or any other
