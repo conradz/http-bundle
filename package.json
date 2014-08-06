@@ -1,0 +1,33 @@
+{
+  "name": "http-bundle",
+  "version": "1.0.0",
+  "description": "Generic http handler for generated bundles",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conradz/http-bundle.git"
+  },
+  "keywords": [
+    "bundle",
+    "http",
+    "handler",
+    "middleware",
+    "bundling"
+  ],
+  "author": "Conrad Zimmerman <me@conradz.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/conradz/http-bundle/issues"
+  },
+  "homepage": "https://github.com/conradz/http-bundle",
+  "devDependencies": {
+    "mocha": "^1.21.3",
+    "request": "^2.39.0"
+  },
+  "dependencies": {
+    "p-promise": "^0.4.6"
+  }
+}
